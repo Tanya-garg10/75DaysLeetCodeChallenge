@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [1331-rank-transform-of-an-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [1331-rank-transform-of-an-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
