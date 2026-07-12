@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0197-rising-temperature) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
