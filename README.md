@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
