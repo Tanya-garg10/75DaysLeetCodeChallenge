@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
