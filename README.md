@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
