@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 ## Recursion
@@ -129,9 +130,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
