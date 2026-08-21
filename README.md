@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
@@ -161,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
