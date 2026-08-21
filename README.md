@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
