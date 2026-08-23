@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
+| [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
+| [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
