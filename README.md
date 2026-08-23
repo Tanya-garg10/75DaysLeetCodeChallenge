@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
