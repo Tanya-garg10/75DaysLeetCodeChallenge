@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
