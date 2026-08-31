@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0761-special-binary-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0761-special-binary-string) |
 ## Algorithm X
 |  |
