@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
