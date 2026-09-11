@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
