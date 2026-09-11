@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
