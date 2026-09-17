@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0835-image-overlap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
