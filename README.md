@@ -89,14 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
