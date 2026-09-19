@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
