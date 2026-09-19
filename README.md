@@ -341,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
