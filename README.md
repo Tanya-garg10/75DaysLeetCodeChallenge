@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
