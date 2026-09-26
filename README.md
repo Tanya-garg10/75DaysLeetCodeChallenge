@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
@@ -382,4 +383,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
