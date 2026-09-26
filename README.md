@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
