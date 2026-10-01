@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
@@ -310,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dancing Links
