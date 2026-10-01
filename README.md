@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
