@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [0761-special-binary-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
+| [0856-score-of-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dancing Links
 |  |
