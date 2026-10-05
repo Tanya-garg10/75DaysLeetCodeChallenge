@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0201-bitwise-and-of-numbers-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 ## Manacher
 |  |
@@ -427,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -444,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
