@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0761-special-binary-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0761-special-binary-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0835-image-overlap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
@@ -430,4 +432,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
