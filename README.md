@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0835-image-overlap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -462,4 +465,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
