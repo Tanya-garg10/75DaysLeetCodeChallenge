@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0185-department-top-three-salaries) |
+| [0262-trips-and-users](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0262-trips-and-users) |
 ## Rolling Hash
 |  |
 | ------- |
