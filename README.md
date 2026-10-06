@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
