@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0761-special-binary-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0761-special-binary-string) |
 | [0856-score-of-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
