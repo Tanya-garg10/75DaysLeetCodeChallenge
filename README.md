@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -515,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
