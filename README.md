@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0761-special-binary-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0761-special-binary-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0165-compare-version-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanya-garg10/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
